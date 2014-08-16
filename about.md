@@ -4,15 +4,15 @@ title: About
 ---
 
 <p class="message">
-    “Years ago, Tufts University invited me to lecture during a symposium on obesity…
+    â€œYears ago, Tufts University invited me to lecture during a symposium on obesityâ€¦
 
-    Lecturer after lecturer offered solutions for America’s obesity problem, all of which revolved around education. Americans would be thinner if only they knew about good nutrition and the benefits of exercise, they told us. Slimming down the entire country was possible through an aggressive public awareness campaign…
+    Lecturer after lecturer offered solutions for Americaâ€™s obesity problem, all of which revolved around education. Americans would be thinner if only they knew about good nutrition and the benefits of exercise, they told us. Slimming down the entire country was possible through an aggressive public awareness campaignâ€¦
 
-    When it was my turn to speak, I couldn’t help beginning with an observation. “I think it is fascinating that the other speakers today have suggested that education is the answer to our country’s obesity problem,” I said. I slowly gestured around the room. “If education is the answer, then why hasn’t it helped more of you?”
+    When it was my turn to speak, I couldnâ€™t help beginning with an observation. â€œI think it is fascinating that the other speakers today have suggested that education is the answer to our countryâ€™s obesity problem,â€ I said. I slowly gestured around the room. â€œIf education is the answer, then why hasnâ€™t it helped more of you?â€
 
-    There were audible gasps in the auditorium when I said this, quite a few snickers, and five times as many sneers. Unsurprisingly, Tufts never invited me to lecture again.’”
+    There were audible gasps in the auditorium when I said this, quite a few snickers, and five times as many sneers. Unsurprisingly, Tufts never invited me to lecture again.â€™â€
 
-    –Clotaire Rapaille
+    â€“Clotaire Rapaille
     <a href="http://amzn.to/1rerMJt" target="_blank">The Culture Code</a>
 </p>
 
