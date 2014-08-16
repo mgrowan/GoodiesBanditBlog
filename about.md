@@ -3,8 +3,11 @@ layout: page
 title: About
 ---
 
+<p>
+    Done with being fat? Tried many diets. You know you need something else.
+</p>
 <p class="message">
-    Years ago, Tufts University invited me to lecture during a symposium on obesity…
+    "Years ago, Tufts University invited me to lecture during a symposium on obesity…
     <br />
     <br />
     Lecturer after lecturer offered solutions for America’s obesity problem, all of which revolved around education. Americans would be thinner if only they knew about good nutrition and the benefits of exercise, they told us. Slimming down the entire country was possible through an aggressive public awareness campaign…
