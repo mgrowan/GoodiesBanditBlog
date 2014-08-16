@@ -4,27 +4,22 @@ title: About
 ---
 
 <p class="message">
-  Let people know you are going to change. Let them see as you do it. And you will do it.
+    “Years ago, Tufts University invited me to lecture during a symposium on obesity…
+
+    Lecturer after lecturer offered solutions for America’s obesity problem, all of which revolved around education. Americans would be thinner if only they knew about good nutrition and the benefits of exercise, they told us. Slimming down the entire country was possible through an aggressive public awareness campaign…
+
+    When it was my turn to speak, I couldn’t help beginning with an observation. “I think it is fascinating that the other speakers today have suggested that education is the answer to our country’s obesity problem,” I said. I slowly gestured around the room. “If education is the answer, then why hasn’t it helped more of you?”
+
+    There were audible gasps in the auditorium when I said this, quite a few snickers, and five times as many sneers. Unsurprisingly, Tufts never invited me to lecture again.’”
+
+    –Clotaire Rapaille
+    <a href="http://amzn.to/1rerMJt" target="_blank">The Culture Code</a>
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<p>
+    The goal we have here is to not *just* educate you. Systems have shown that breaking habits is more effective with accountability. Not many go out looking for accountability. It can be uncomfortable, vunerable, embarassing. But it is worth it.
+</p>
+<p>
+    Let people know you are going to change. Let them see as you do it. And you will do it.
+</p>
+<p>Contact us at <a href="mailto:goodiesbandit@outlook.com&subject=From the Blog">goodiesbandit@outlook.com</a></p>
