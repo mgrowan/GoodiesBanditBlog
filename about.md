@@ -3,6 +3,13 @@ layout: page
 title: About
 ---
 
+<h3>
+    Here comes the Goodies Bandit. What are you hiding?
+</h3>
+<p>
+    Most bandits are bad. Some become heroes, either in deed or in memory. Ned Kelly is the first that comes to mind. Robin Hood is another. The Goodies Bandit is setting out to be one. What he will take from you will be painful. It will be felt. There will be withdrawals. But. After a short while, you will feel better, have more energy, drop sizes. Because as good as goodies are to eat. We know they are not good. To the extreme they are killing you.
+</p>
+
 <p>
     Done with being fat? Tried many diets. You know you need something else.
 </p>
