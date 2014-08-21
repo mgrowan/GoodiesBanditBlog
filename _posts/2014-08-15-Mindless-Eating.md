@@ -8,13 +8,13 @@ comments: true
 </p>
 <p class="message">
     This book will literally change the way you think about your next meal. Food psychologist Brian Wansink revolutionizes our awareness of how much, what, and why we’re eating—often without realizing it. His findings will astound you.
-
-    • Can the size of your plate really influence your appetite?
-    • Why do you eat more when you dine with friends?
-    • What “hidden persuaders” are used by restaurants and supermarkets to get us to overeat?
-    • How does music or the color of the room influence how much—and how fast—we eat?
-    • How can we “mindlessly” lose—instead of gain—up to twenty pounds in the coming year?
-
+    <ul>
+        <li>Can the size of your plate really influence your appetite?</li>
+        <li>Why do you eat more when you dine with friends?</li>
+        <li>What “hidden persuaders” are used by restaurants and supermarkets to get us to overeat?</li>
+        <li>How does music or the color of the room influence how much—and how fast—we eat?</li>
+        <li>How can we “mindlessly” lose—instead of gain—up to twenty pounds in the coming year?</li>
+    </ul>
     Starting today, you can make more mindful, enjoyable, and healthy choices at the dinner table, in the supermarket, at the office—wherever you satisfy your appetite.
 </p>
 <p>
