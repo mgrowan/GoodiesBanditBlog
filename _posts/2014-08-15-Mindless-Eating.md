@@ -7,15 +7,15 @@ comments: true
     This is what Goodies Bandit intends to show you. Once exposed with little effort you will eat better. <a href="http://amzn.to/1tkwQcN">Mindless Eating: Why We Eat More Than We Think</a> by Brian Wansink goes into details of this big problem:
 </p>
 <p class="message">
-    This book will literally change the way you think about your next meal. Food psychologist Brian Wansink revolutionizes our awareness of how much, what, and why weíre eatingóoften without realizing it. His findings will astound you.
+    This book will literally change the way you think about your next meal. Food psychologist Brian Wansink revolutionizes our awareness of how much, what, and why we‚Äôre eating‚Äîoften without realizing it. His findings will astound you.
 
-    ï Can the size of your plate really influence your appetite?
-    ï Why do you eat more when you dine with friends?
-    ï What ìhidden persuadersî are used by restaurants and supermarkets to get us to overeat?
-    ï How does music or the color of the room influence how muchóand how fastówe eat?
-    ï How can we ìmindlesslyî loseóinstead of gainóup to twenty pounds in the coming year?
+    ‚Ä¢ Can the size of your plate really influence your appetite?
+    ‚Ä¢ Why do you eat more when you dine with friends?
+    ‚Ä¢ What ‚Äúhidden persuaders‚Äù are used by restaurants and supermarkets to get us to overeat?
+    ‚Ä¢ How does music or the color of the room influence how much‚Äîand how fast‚Äîwe eat?
+    ‚Ä¢ How can we ‚Äúmindlessly‚Äù lose‚Äîinstead of gain‚Äîup to twenty pounds in the coming year?
 
-    Starting today, you can make more mindful, enjoyable, and healthy choices at the dinner table, in the supermarket, at the officeówherever you satisfy your appetite.
+    Starting today, you can make more mindful, enjoyable, and healthy choices at the dinner table, in the supermarket, at the office‚Äîwherever you satisfy your appetite.
 </p>
 <p>
     Understanding why we eat too much is a useful tool. Knowledge however is rarely enough. A strict diet is very hard to follow and sets you up for failure. Again. The author's point is that we don't monitor every calorie. We can't. Goodies Bandit makes it easy to see with frictionless tracking via photos and accountability for encouragement and support.
