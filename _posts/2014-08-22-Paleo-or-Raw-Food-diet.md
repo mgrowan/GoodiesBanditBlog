@@ -3,7 +3,7 @@ layout: post
 title: Paleo or Raw Food diet. Wait I thought Paleo was raw food...
 comments: true
 ---
-#Paleo Diet
+###Paleo Diet
 
 The Paleolithic (Paleo) diet has increased in popularity recently, and is especially popular with Crossfit devotees. The Paleo diet is based on whole foods, but excludes grains, beans and legumes, dairy, salt and sugar.
 
@@ -13,7 +13,7 @@ The Paleo diet incorporates a lot of meat. While this meat can be lean, there is
 
 If managed well, the Paleo diet can be healthy. Any followers, however, should be careful to avoid high intakes of saturated fat, and should consider whether they want to miss out on the health benefits of the excluded food groups.
 
-#Raw Food Diet
+###Raw Food Diet
 
 One thing everyone seems to agree on is that we should eat more fresh fruit and vegetables. But what about cooked?
 
@@ -27,7 +27,7 @@ Cooking also can remove harmful bacteria from some foods, like salmonella and E.
 
 While most of us should be eating more fresh fruit and vegetables, rejecting cooked food completely may lead to missing out on valuable vitamins and minerals.
 
-#Coconut Oil
+####Coconut Oil
 
 In contrast to the low-fat diets of the past few decades, many have started to incorporate high levels of fats and oils into their diets. Many aficionados of high-fat diets say that it helps with satiety, energy, and strong hair and nails. One of the most popular fats is coconut oil.
 
