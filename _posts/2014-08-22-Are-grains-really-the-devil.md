@@ -7,7 +7,7 @@ comments: true
 
 The Paleolithic (Paleo) diet has increased in popularity recently, and is especially popular with Crossfit devotees. The Paleo diet is based on whole foods, but excludes grains, beans and legumes, dairy, salt and sugar.
 
-It is based on foods our hunter/gatherer ancestors ate before the introduction of agriculture about 10,000 years ago. It claims that humans are designed to eat particular foods, and evolution hasn’t yet enabled us to digest highly processed foods.
+It is based on foods our hunter/gatherer ancestors ate before the introduction of agriculture about 10,000 years ago. It claims that humans are designed to eat particular foods, and evolution hasnâ€™t yet enabled us to digest highly processed foods.
 
 The <a href="www.thepaleodiet.com/about-the-paleo-diet" target="_blank">Paleo diet</a> claims to reduce the risk of heart disease and type 2 diabetes, assist weight loss, and improve energy levels.  There is <a href="www.authoritynutrition.com/5-studies-on-the-paleo-diet">some evidence</a> to support these claims.  The obvious benefits of the Paleo diet are that it emphasises whole foods, fruits, vegetables and lean protein. It also encourages organic produce, free of pesticides, chemicals, antibiotics and hormones.
 
@@ -33,8 +33,8 @@ While most of us should be eating more fresh fruit and vegetables, rejecting coo
 
 In contrast to the low-fat diets of the past few decades, many have started to incorporate high levels of fats and oils into their diets. Many aficionados of high-fat diets say that it helps with satiety, energy, and strong hair and nails. One of the most popular fats is coconut oil.
 
-Fat is an essential part of a healthy diet. It helps the body absorb some nutrients, and is a source of energy and vitamins. Fat also provides essential fatty acids which the body can’t produce itself. Most nutrition guidelines recommend limiting food high in saturated fat, while eating more unsaturated fats (for example, oily fish, nuts and seeds, sunflower and olive oils).
+Fat is an essential part of a healthy diet. It helps the body absorb some nutrients, and is a source of energy and vitamins. Fat also provides essential fatty acids which the body canâ€™t produce itself. Most nutrition guidelines recommend limiting food high in saturated fat, while eating more unsaturated fats (for example, oily fish, nuts and seeds, sunflower and olive oils).
 
 Coconut oil is becoming extremely popular, despite being made up of more than 90 per cent saturated fats. The majority of the saturated fats in coconut oil are medium-chain saturated fats, which the body tends to use quickly to produce energy. This means that less of it accumulates in fat tissue. Some researchers consider that because of the structure of the saturated fat, coconut oil does less damage than other saturated fats, such as those found in animal products.  Coconut oil is also free from cholesterol, which makes it a better choice than butter and trans fats.
 
-The evidence on coconut oil is still emerging, and isn’t yet convincing.  At this stage, most nutritionists seem to recommend that that coconut oil is treated like any other saturated fat, and is used in moderation.
+The evidence on coconut oil is still emerging, and isnâ€™t yet convincing.  At this stage, most nutritionists seem to recommend that that coconut oil is treated like any other saturated fat, and is used in moderation.
