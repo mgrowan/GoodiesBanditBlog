@@ -15,13 +15,14 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.content }}
+
+      <div>
+          <a class="btn btn-warning btn-lg" href="http://eepurl.com/0x91b">Don't miss an update. Subscribe here.</a>
+      </div>
   </div>
   {% endfor %}
 </div>
 
-<div>
-    <a class="btn btn-warning btn-lg" href="http://eepurl.com/0x91b">Don't miss an update. Subscribe here.</a>
-</div>
 
 <div class="pagination">
   {% if paginator.next_page %}
