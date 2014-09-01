@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Protein Shakes, Protein Bars, or No Protein supplements: What is best?
+title: "Protein Shakes or Protein Bars: What is best?"
 comments: true
 ---
 Whether you are in a rush or looking for a healthy snack in a jiffy, the best bet is to turn to a protein bar as it provides you immense benefits primarily adding a high level of protein in your diet.
