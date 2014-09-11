@@ -1,0 +1,8 @@
+---
+layout: post
+title: "It starts with the gut! You won’t believe what scientist are confirming…"
+comments: true
+---
+<p>Australian science TV show <a href="http://www.abc.net.au/catalyst" target="_blank">Catalyst</a> recently aired a 2-part special called <a href="http://iview.abc.net.au/programs/catalyst/SC1302H005S00" target="_blank">Gut Reaction</a>. The first part <a href="http://iview.abc.net.au/programs/catalyst/SC1302H005S00" target="_blank">What You Eat Could Be Making You Ill</a> investigates whether what we feed the bacteria deep inside our gut could be contributing to a whole litany of diseases. This covered an amazing range of research looking at the role good bacteria in our bodies contributes to good health in unbelievable ways. Eating the right kinds of foods helps feed and develop these cultures. Healthy looking on the outside does not equal healthy on the inside. Better eating for just a month can significantly improve your insulin responses and high quantities of vinegar can cure asthma!</p>
+
+<p><a href="http://iview.abc.net.au/programs/catalyst/SC1302H006S00" target="_blank">Part 2 Let Food By Thy Medicine</a> investigates whether the Western diet could be contributing to a whole litany of diseases by causing an imbalance in the bacteria deep inside our gut. This then went into methods of restoring a healthy balance. This can be achieved through diet, but for serious cases there is currently an operation called a faecal transplant that has been shown to improve irritable bowel syndrome. It is what it sounds like and the scientist jokingly call it a trans-poo-sion!</p>
